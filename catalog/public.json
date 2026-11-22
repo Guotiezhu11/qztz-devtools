@@ -1,0 +1,15 @@
+{
+  "updated": "2026-11-22",
+  "items": [
+    {
+      "id": "x1",
+      "name": "测试条目",
+      "kind": "软件",
+      "size": "50 B",
+      "date": "2026-11-22",
+      "note": "中文备注",
+      "url": "https://raw.githubusercontent.com/Guotiezhu11/qztz-devtools/main/files/public/e2e-upload.txt",
+      "tags": []
+    }
+  ]
+}
