@@ -1,14 +1,4 @@
 {
   "updated": "2026-11-22",
-  "items": [
-    {
-      "id": "imwrhlgt0rv1c",
-      "name": "big-test.bin",
-      "kind": "软件",
-      "size": "6.0 MB",
-      "date": "2026-11-22",
-      "url": "https://raw.githubusercontent.com/Guotiezhu11/qztz-devtools/main/files/public/big-test.bin",
-      "tags": []
-    }
-  ]
+  "items": []
 }
