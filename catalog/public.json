@@ -1,23 +1,4 @@
 {
   "updated": "2026-11-22",
-  "items": [
-    {
-      "id": "imwrldhz85u69",
-      "name": "dup-test.txt",
-      "kind": "软件",
-      "size": "28 B",
-      "date": "2026-11-22",
-      "url": "https://raw.githubusercontent.com/Guotiezhu11/qztz-devtools/main/files/public/dup-test-20261122-164530.txt",
-      "tags": []
-    },
-    {
-      "id": "imwrlczx7mp4p",
-      "name": "dup-test.txt",
-      "kind": "软件",
-      "size": "27 B",
-      "date": "2026-11-22",
-      "url": "https://raw.githubusercontent.com/Guotiezhu11/qztz-devtools/main/files/public/dup-test.txt",
-      "tags": []
-    }
-  ]
+  "items": []
 }
