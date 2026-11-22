@@ -1,4 +1,14 @@
 {
   "updated": "2026-11-22",
-  "items": []
+  "items": [
+    {
+      "id": "imwrkrc2xx3yi",
+      "name": "autoswitch-test.txt",
+      "kind": "软件",
+      "size": "36 B",
+      "date": "2026-11-22",
+      "url": "https://raw.githubusercontent.com/Guotiezhu11/qztz-devtools/main/files/public/autoswitch-test.txt",
+      "tags": []
+    }
+  ]
 }
