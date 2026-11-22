@@ -2,6 +2,15 @@
   "updated": "2026-11-22",
   "items": [
     {
+      "id": "imwri31qcdlul",
+      "name": "multi-test.txt",
+      "kind": "软件",
+      "size": "38 B",
+      "date": "2026-11-22",
+      "url": "https://raw.githubusercontent.com/Guotiezhu11/qztz-devtools/main/files/private/multi-test.txt",
+      "tags": []
+    },
+    {
       "id": "prv-pass-demo",
       "name": "某站点后台口令（示例）",
       "kind": "密码",
