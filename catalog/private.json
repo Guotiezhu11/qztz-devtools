@@ -1,0 +1,29 @@
+{
+  "updated": "2026-11-22",
+  "items": [
+    {
+      "id": "prv-pass-demo",
+      "name": "某站点后台口令（示例）",
+      "kind": "密码",
+      "date": "2026-11-21",
+      "note": "示例条目，替换成你自己的。列表里默认打码，点「显示」才露出。",
+      "secret": true,
+      "body": "账号：gtz\n口令：示例口令2026\n备用码：AAAA-BBBB-CCCC",
+      "tags": [
+        "口令"
+      ]
+    },
+    {
+      "id": "prv-paste-demo",
+      "name": "一段配置片段（示例）",
+      "kind": "粘贴",
+      "date": "2026-11-20",
+      "note": "随手贴的东西，以后要抄直接用。",
+      "secret": false,
+      "body": "listen 443 ssl;\nserver_name example.com;\nssl_certificate /etc/ssl/fullchain.pem;",
+      "tags": [
+        "配置"
+      ]
+    }
+  ]
+}
